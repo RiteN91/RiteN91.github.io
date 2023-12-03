@@ -2,7 +2,7 @@
 <br><br>
 <p align="center" style="margin-top:10px">
 <b> Hi there! </b><br>
- <i>Follow to get updates about my work.</i>
+ <i>Follow me on to get more updates about my work</i>
 </p>
 
 <div align="center">
