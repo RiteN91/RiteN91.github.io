@@ -1,3 +1,1 @@
-PowerBI Dashboard for insights into jobs in Canada
-
-![dashboard](https://github.com/iriteshnagpal/iriteshnagpal/assets/105557892/39611032-807e-4461-824e-4f7efbd405d3)
+![Portfolio](https://github.com/iriteshnagpal/iriteshnagpal/assets/105557892/cba9ecdc-3b52-4cf6-ae1c-73902a25dfa6)
