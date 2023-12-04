@@ -28,7 +28,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  <p align="center" style="margin-top:10px">
- <i>Follow me on to get more updates about my work</i>
+ <i>Follow me for more updates</i>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ritesh-nagpal-ahtm/">
