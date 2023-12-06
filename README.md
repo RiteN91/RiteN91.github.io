@@ -45,18 +45,18 @@
 
 <br><br>
  <p align="center" style="margin-top:10px">
- <i>Follow me for more updates</i>
+ <h3 align="center"><i>Follow me for more updates</i></h3>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ritesh-nagpal-ahtm/">
-    <img width="30px" src="/assets/icons-linkedin.svg"  />
+    <img width="70px" src="/assets/icons-linkedin.svg"  />
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/rhunagpal">
-    <img width="28px" src="/assets/icons-kaggle.svg" />
+    <img width="70px" src="/assets/icons-kaggle.svg" />
   </a>  
   &nbsp;
   <a href="https://www.instagram.com/rhunagpal/">
-    <img width="28px" src="/assets/icons-instagram.svg" />
+    <img width="70px" src="/assets/icons-instagram.svg" />
   </a>  
 </div>
