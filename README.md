@@ -1,4 +1,6 @@
 
+![Portfolio](https://github.com/iriteshnagpal/iriteshnagpal/assets/105557892/3d1d92d9-18c0-49b8-a998-16f117aac163)
+
 <p align="center" style="margin-top:10px">
 <b> Hi there! <img height=30 width=30 alt="GIF" src="/assets/wave.gif" /> </b> <p>
 
