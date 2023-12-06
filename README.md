@@ -6,9 +6,9 @@
 
 ### About me 🤙
 <div align="left">
- 👨‍🎓 I am pursuing my post-graduation Data Analytics & Artificial Intelligence certificate. <br>
- 👨‍💻 Hold 9+ years of experience in web app and enterprise software development. <br>
- 🧐 Exploring the world of Artificial Intelligence & data science. <br>
+ 👨‍🎓 I am pursuing my <i>post-graduation</i> <b>Data Analytics & Artificial Intelligence certificate</b> <br>
+ 👨‍💻 Holds <i>9+ years of experience</i> in <b>web app and enterprise software development</b> <br>
+ 🧐 Exploring the world of <b>Artificial Intelligence & data science</b> <br>
 </div> 
 <br>
 
@@ -28,7 +28,7 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<br><br>
  <p align="center" style="margin-top:10px">
  <i>Follow me for more updates</i>
 </p>
