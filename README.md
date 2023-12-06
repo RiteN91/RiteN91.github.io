@@ -7,7 +7,7 @@
 ### About me 🤙
 <div align="left">
  👨‍🎓 I am pursuing my <i>post-graduation</i> <b>Data Analytics & Artificial Intelligence certificate</b> <br>
- 👨‍💻 Holds <i>9+ years of experience</i> in <b>web app and enterprise software development</b> <br>
+ 👨‍💻 Holds <b>9+ years of experience</b> in <i>web app and enterprise software development</i> <br>
  🧐 Exploring the world of <b>Artificial Intelligence & data science</b> <br>
 </div> 
 <br>
