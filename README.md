@@ -28,6 +28,21 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br> <br>
+
+## :bar_chart:  My Stats
+
+<p align="center"> <b>Profile Views<b> 
+  <br>
+  <img src="https://profile-counter.glitch.me/{iriteshnagpal}/count.svg" alt="Profile Visits" />
+</p>
+
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=iriteshnagpal&theme=dark" alt="GitHub Streak" />
+</p>
+
+
 <br><br>
  <p align="center" style="margin-top:10px">
  <i>Follow me for more updates</i>
