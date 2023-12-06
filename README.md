@@ -4,7 +4,7 @@
 <p align="center" style="margin-top:10px">
 <b> Hi there! <img height=30 width=30 alt="GIF" src="/assets/wave.gif" /> </b> <p>
 
-### About me 🤙
+## About me 🤙
 <div align="left">
  👨‍🎓 I am pursuing my <i>post-graduation</i> <b>Data Analytics & Artificial Intelligence certificate</b> <br>
  👨‍💻 Holds <b>9+ years of experience</b> in <i>web app and enterprise software development</i> <br>
@@ -12,7 +12,7 @@
 </div> 
 <br>
 
- ### Tools & Technologies 🛠️
+ ## Tools & Technologies 🛠️
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-8-blue?style=for-the-badge&logo=java)
